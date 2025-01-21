@@ -1,2 +1,2 @@
 # VGADriver
-VGA Driver for a VIVADO Basys3 board. More detailes in the documentation
+VGA Driver for a Digilent Basys3 FPGA. More detailes in the documentation
